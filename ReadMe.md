@@ -1,8 +1,8 @@
+# Desenvolvedor Full-Stack (em formação)
 Sou um cara fascinado por programação e que durante a faculdade descobriu novas skills no mundo da UI/UX. Atualmente busco pela capacidade de lidar com o ciclo de vida completo de uma aplicação, do início ao fim, atuando no back-end, front-end ou ambas as frentes de desenvolvimento.<br>
 
 Estou disponível para conversas e novas propostas de trabalho ou projetos!<br>
 Para entrar em contato, você pode usar um dos meios abaixo...<br>
-
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/75983358890)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:denilsonsant.trab@gmail.com)
 
