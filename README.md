@@ -33,3 +33,9 @@ Para entrar em contato, você pode clicar abaixo no seu meio de contato preferid
 ## Meus Recursos Multiplataforma
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DenilsonSantos-OFC/DenilsonSantos-OFC/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DenilsonSantos-OFC/DenilsonSantos-OFC/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DenilsonSantos-OFC/DenilsonSantos-OFC/output/github-contribution-grid-snake.svg">
+</picture>
