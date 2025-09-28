@@ -1,4 +1,4 @@
-# Desenvolvedor Full-Stack (em formação)
+# Desenvolvedor Full Stack (em formação)
 Sou um cara fascinado por programação e que durante a faculdade descobriu novas skills no mundo da UI/UX. Atualmente busco pela capacidade de lidar com o ciclo de vida completo de uma aplicação, do início ao fim, atuando no back-end, front-end ou ambas as frentes de desenvolvimento.<br>
 
 Estou disponível para conversas e novas propostas de trabalho ou projetos!<br>
