@@ -1,4 +1,7 @@
 # Desenvolvedor Full Stack (em formação)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=750&pause=1500&color=16E414&background=000000&vCenter=true&width=1200&height=35&lines=Para+o+prot%C3%B3tipo%2C;Para+a+codifica%C3%A7%C3%A3o!;Para+a+modelagem%2C;Para+a+programa%C3%A7%C3%A3o!;Visualize...;Imagine...;Crie!;Desenvolvimento+Full+Stack+em+prol+da+sua+aplica%C3%A7%C3%A3o!)](https://git.io/typing-svg)
+
 Sou um cara fascinado por programação e que durante a faculdade descobriu novas skills no mundo da UI/UX. Atualmente busco pela capacidade de lidar com o ciclo de vida completo de uma aplicação, do início ao fim, atuando no back-end, front-end ou ambas as frentes de desenvolvimento.<br>
 
 Estou disponível para conversas e novas propostas de trabalho ou projetos!<br>
