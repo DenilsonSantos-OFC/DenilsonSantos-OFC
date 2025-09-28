@@ -7,11 +7,9 @@ Para entrar em contato, você pode clicar abaixo no seu meio de contato preferid
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/75983358890)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:denilsonsant.trab@gmail.com)
 
-<p>Se quiser ver mais informações sobre o meu perfil profissional no LinkedIn, basta clicar
-<a href="https://www.linkedin.com/in/denilson-santos-dev-fullstack/">
-   aqui
-</a>
-...
+<p>
+   Se quiser ver mais informações sobre o meu perfil profissional no LinkedIn, basta clicar
+   <a href="https://www.linkedin.com/in/denilson-santos-dev-fullstack/">aqui!</a>
 </p>
 
 ## Meus Recursos Front-End
